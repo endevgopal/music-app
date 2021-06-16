@@ -6,7 +6,8 @@ function chillHop() {
       cover:
         'https://images.hungama.com/c/1/513/625/51100890/51100890_300x300.jpg',
       artist: 'Sidhu Moosewala',
-      audio: 'https://wynk.in/18f2960f-25a6-4fc0-a0f1-afab834093a6',
+      audio:
+        'https://res.cloudinary.com/dtatrg6np/video/upload/v1623823707/songs/OLD_SKOOL_Full_Video_Prem_Dhillon_ft_Sidhu_Moose_WalaThe_KiddNseebRahul_Chahal_GoldMedia_mwmen5.mp3',
       id: uuidv4(),
       active: true,
     },
@@ -16,7 +17,7 @@ function chillHop() {
         'https://images.hungama.com/c/1/d18/717/60959434/60959434_300x300.jpg',
       artist: 'KAKA',
       audio:
-        'https://media.hungama.com/c/4/d18/717/60959434/60959434_128.mp3?eOoeblnQW4x6xEHIOwzETWAJ0qugVqzW0hHL2CmKZe_OaAF4LuiOPrWINMdQRUHSH6oaraikNpPAw2ZwgDxSRKA6Xu6ZdZhWtQpvr52yMz7yQzYgZ9XP7pyvCgRXNEzbTzzkNw',
+        'https://res.cloudinary.com/dtatrg6np/video/upload/v1623823715/songs/Temporary_Pyar_KAKA_Darling_Adaab_Kharoud_Anjali_Arora_New_Punjabi_Songs_2021_Latest_S_remz1z.mp3',
       id: uuidv4(),
       active: false,
     },
@@ -26,17 +27,17 @@ function chillHop() {
         'https://images.hungama.com/c/1/d8d/2e2/58977937/58977937_300x300.jpg',
       artist: 'DIVINE',
       audio:
-        'https://media.hungama.com/c/4/c20/b4a/60686831/60686831_128.mp3?Ra9OdzNWUuplnIYsFOEyyDSyLGnljxKngQmeFAQsfiYvPdbsZ9r_Zmlfv6WcPiNxU-uxyAnZFEZalI1rlk6O5_A08WJg6SPAxil5lNTKBgniE3BDjQWYcPB0hBv9TiA2UZ5SDw',
+        'https://res.cloudinary.com/dtatrg6np/video/upload/v1623823705/songs/DIVINE_-_MIRCHI_Feat._Stylo_G_MC_Altaf_Phenom_-_Official_Music_Video_ldddqy.mp3',
       id: uuidv4(),
       active: false,
     },
     {
-      name: 'Kohinoor',
+      name: 'Royal Rumble',
       cover:
-        'https://images.hungama.com/c/1/ec0/3e0/49423329/49423329_300x300.jpg',
-      artist: 'DIVINE',
+        'https://images.hungama.com/c/1/d14/22a/61263097/61263097_300x300.jpg',
+      artist: 'Emiway Bantai',
       audio:
-        'https://media.hungama.com/c/4/14a/b42/49423337/49423337_128.mp3?EDIe6aZebZBchC5C9Mgw6lEPX5_LNloWqVKeyD0WcxmwTvrLlxWcE0Gn2wNiHjrMou0cvF9LJAJGngGrjr-qIT6js-KNlcq_M2wJGajE8tyZxYJVksYtp7bbRx_a8pcXfK-xkw',
+        'https://res.cloudinary.com/dtatrg6np/video/upload/v1623823699/songs/EMIWAY_-_ROYAL_RUMBLE_PROD_BY._BKAY_OFFICIAL_MUSIC_VIDEO_rmn0n1.mp3',
       id: uuidv4(),
       active: false,
     },
